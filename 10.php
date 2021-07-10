@@ -18,7 +18,7 @@
             <img src="./picture/test1.gif" alt="">
             <div id="fukidasi_wrap" class="is-hidden">
                 <div class="balloon2-left">
-                    <p class="fukidasi">ハローワールドbyシバドッグ</p>
+                    <p class="fukidasi">こんにちは世界byシバドッグ</p>
                 </div>
             </div>
         </div>
